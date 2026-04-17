@@ -4,7 +4,7 @@
 # else if above 50000 receive a 20 discount
 
 
-
+s
 customer = input("Customer total spending:  ")
 customer = float (customer)
 if customer <= 10000:
